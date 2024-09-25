@@ -1,0 +1,2 @@
+ALTER TABLE nh_users
+ADD COLUMN avatar VARCHAR(255);
